@@ -1,4 +1,4 @@
-##pip install requests
+##### pip install requests
 
 ### Basic
 ##### python3 recon.py invest.miit.uz
