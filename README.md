@@ -1,7 +1,7 @@
 ##### pip install requests
 
 ### Basic
-##### `python3 recon.py invest.miit.uz`
+##### ```python3 recon.py invest.miit.uz```
 
 ### All flags
 ##### python3 recon.py invest.miit.uz --threads 15 --timeout 6 --delay 0.2
