@@ -2,11 +2,16 @@
 ``` 
 pip install requests
 ```
+#### On kali
 ```
-go install github.com/tomnomnom/assetfinder@latest
+sudo apt install subfinder assetfinder
+```
+#### Another distros
+```
+go install github.com/tomnomnom/assetfinder@latest && sudo cp ~/go/bin/assetfinder /usr/bin
 ```
 ```
-go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && sudo cp ~/go/bin/subfinder /usr/bin
 ```
 
 #### Basic
