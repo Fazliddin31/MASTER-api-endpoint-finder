@@ -1,6 +1,12 @@
-#### Requirement (Python 3)
+#### Requirements
 ``` 
-pip install requests 
+pip install requests
+```
+```
+go install github.com/tomnomnom/assetfinder@latest
+```
+```
+go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
 #### Basic
